@@ -1,0 +1,8 @@
+site_name: "album-service-db"
+site_description: "Database for album-service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
