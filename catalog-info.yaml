@@ -10,5 +10,5 @@ metadata:
     github.com/project-slug: spotify-portal-public-demo/album-service-db
 spec:
   type: database
-  lifecycle: experimental
+  lifecycle: production
   owner: "group:default/content"
